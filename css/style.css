@@ -18,13 +18,12 @@ main{
     position: relative;
     left: 50%;
     right: 50%;
-    width: 100vw;
     margin-left: -50vw;
     margin-right: -50vw;
   }
 
   .video-principal{
-    width: 100vw;
+    width: 50%;
     height: 40vh;           /* ajusta este valor a tu gusto */
     object-fit: cover;       /* cubre todo, recortando si hace falta */
     display: block;
