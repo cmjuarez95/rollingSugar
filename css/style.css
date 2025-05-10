@@ -29,3 +29,8 @@ main{
     object-fit: cover;       /* cubre todo, recortando si hace falta */
     display: block;
   }
+
+  .card-img-top {
+  height: 350px; /* o el alto que prefieras */
+  object-fit: cover;
+}
