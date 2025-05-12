@@ -34,3 +34,12 @@ main{
   height: 400px; /* o el alto que prefieras */
   object-fit: cover;
 }
+
+@media (width >= 992px) {
+  .video-principal{
+    width: 100vw;
+    height: 75vh;           /* ajusta este valor a tu gusto */
+    object-fit: cover;       /* cubre todo, recortando si hace falta */
+    display: block;
+  }
+}
