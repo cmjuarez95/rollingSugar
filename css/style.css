@@ -31,6 +31,6 @@ main{
   }
 
   .card-img-top {
-  height: 350px; /* o el alto que prefieras */
+  height: 400px; /* o el alto que prefieras */
   object-fit: cover;
 }
