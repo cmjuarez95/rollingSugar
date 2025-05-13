@@ -35,6 +35,10 @@ main{
   object-fit: cover;
 }
 
+.bg-error{
+  background-color: #CCCEDB;
+}
+
 @media (width >= 992px) {
   .video-principal{
     width: 100vw;
